@@ -11,9 +11,9 @@ I wish I could write a section to list my awards and achievements, though, becau
 
 That completes the rough sketch, I hope the reader can make more-or-less accurate inferences from it. Feel free to contact me in case you want to conversate.
 
-## 📚 Learning
+## Learning
 
-My knowledge is currently being expanded in the following areas.
+My knowledge is currently being expanded in the following areas:
 
 - Probability Theory
 - Statistical Inference/Learning
@@ -22,4 +22,13 @@ My knowledge is currently being expanded in the following areas.
 
 - During pandemic I started studying Japanese (with Anki) and took the JLPT N4 exam, which I failed by 2 points out of 180.
 - I am strongly in opposition against animal abuse and follow a vegan diet.
-- M
+- Run a half-marathon in Feb, 2023
+-
+
+## Software
+
+- OS: GNU/Linux EndeavourOS
+- Environment: KDE Plasma
+- Mail Client: Thunderbird
+- Browser: Firefox & Ungoogled Chromium
+- Text Editor: Neovim & VSCodium
