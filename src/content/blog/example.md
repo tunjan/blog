@@ -1,6 +1,6 @@
 ---
 author: Alberto Trigo Medina
-pubDatetime: 2024-03-08T15:22:00Z
+pubDatetime: 2024-03-08T14:54:00Z
 title: Example post
 slug: this has no meaning
 featured: true
