@@ -11,3 +11,5 @@ description:
   Some rules & recommendations for creating or adding new posts using AstroPaper
   theme.
 ---
+
+Empty content

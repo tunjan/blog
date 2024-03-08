@@ -23,7 +23,6 @@ My knowledge is currently being expanded in the following areas:
 - During pandemic I started studying Japanese (with Anki) and took the JLPT N4 exam, which I failed by 2 points out of 180.
 - I am strongly in opposition against animal abuse and follow a vegan diet.
 - Run a half-marathon in Feb, 2023
--
 
 ## Software
 
