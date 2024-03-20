@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://tunjan.site/", // replace this with your deployed domain
   author: "Alberto Trigo Medina",
-  desc: "A minimal blog theme.",
+  desc: "A personal blog",
   title: "tunjan",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
